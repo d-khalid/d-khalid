@@ -1,4 +1,4 @@
-## Hi there 👋
+## PLACEHOLDER TEXT UNTIL I THINK SOMETHING TO WRITE HERE
 
 <!--
 **d-khalid/d-khalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
