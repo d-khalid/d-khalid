@@ -1,6 +1,6 @@
 Hello there, it's good to see you :D
 
-I'm a 2nd year software engineering student, I've been programming for about 4 years in total at this point. I have way too many interests for my own good. My primary objective with making software is to make things which are useful and valuable for other people (or are just really interesting). I also like and am an advocate free and open-source software, a good chunk of modern software exploits users in some way which I find scummy.
+I'm a 2nd year software engineering student, I've been programming for about 4 years in total at this point. I have way too many interests for my own good. My primary objective with making software is to make things which are useful and valuable for other people (or are just really interesting). I also like and am an advocate of free and open-source software, a huge amount of modern software exploits users in some significant way which I find very scummy.
 
 # My Languages
 - C#, usually my go-to for projects for ease-of-use and reliability reasons, I most often use Avalonia and ASP.NET Core MVC.
