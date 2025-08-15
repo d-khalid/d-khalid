@@ -16,7 +16,7 @@ There's some minor ones such as bash and ones I've only used a couple times (Rub
 
 - [TAnalyzer](https://github.com/d-khalid/TAnalyzer): Just an AI wrapper that can make transcripts out of therapy recordings, this was a mockup for a hackathon I participated in.
 
-- [bfrs-jit](https://github.com/d-khalid/bfrs-jit): An interpreter for the brainfuck programming language, adding JIT capabilities was a little too hard for me at the time so this is still incomplement
+- [bfrs-jit](https://github.com/d-khalid/bfrs-jit): An interpreter for the brainfuck programming language, adding JIT capabilities was a little too hard for me at the time so this is still incomplete
 
 
 Thanks for reading, have a good day!
